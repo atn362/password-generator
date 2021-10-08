@@ -1,3 +1,7 @@
+# Title
+
+Javascript Password Generator
+
 # Deploped URL: 
 
 https://atn362.github.io/password-generator/
